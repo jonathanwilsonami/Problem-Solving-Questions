@@ -1,1 +1,3 @@
-1. Rolling 2 dice what is the probability that they sum to some number like 4, 7 or 9? 
+1. Rolling 2 dice what is the probability that they sum to some number like 4, 7 or 9? Hint: calculate all outcomes
+2. Are certain events disjoint? Hint: P(AꓴB) = P(A)+P(B)-P(AꓵB) and P(AꓵB) = 0 is disjoint. 
+3. A fair six-sided die is rolled twice. What is the probability of getting 2 on the first roll and not getting 4 on the second roll?
