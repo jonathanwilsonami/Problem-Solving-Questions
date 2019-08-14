@@ -1,0 +1,1 @@
+1. Rolling 2 dice what is the probability that they sum to some number like 4, 7 or 9? 
